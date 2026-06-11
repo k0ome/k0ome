@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎓 IT Student | Cybersecurity Enthusiast<br>🛡️ Passionate about Ethical Hacking & Penetration Testing<br>💻 Constantly learning, building, and securing environments<br>🚀 Turning coffee into secure code <br>i love cs and i'm good at builde project <br>
-
+🎓 IT Student | Cybersecurity Enthusiast<br>🛡️ Passionate about Ethical Hacking & Penetration Testing<br>💻 Constantly learning, building, and securing environments<br>🚀 Turning coffee into secure code 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/k0ome) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k0ome) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@k0ome) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@k0ome) 
